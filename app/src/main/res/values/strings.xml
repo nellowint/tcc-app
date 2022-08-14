@@ -1,0 +1,190 @@
+<resources>
+    <string name="app_name">TCC App</string>
+    <string name="app_server">http://vieirateam.pythonanywhere.com</string>
+    <string name="app_server_image">"/static/images/icon_round.png"</string>
+    <string name="app_user">Usuário</string>
+    <string name="app_search">Pesquisar</string>
+    <string name="app_loading">Carregando…</string>
+    <string name="app_login">Conectar-se :)</string>
+    <string name="app_save">Salvar</string>
+    <string name="app_ok">OK</string>
+    <string name="app_yes">Sim</string>
+    <string name="app_neutral">Neutro</string>
+    <string name="app_no">Não</string>
+    <string name="app_back">Voltar</string>
+    <string name="app_send">Enviar</string>
+    <string name="app_delete">Excluir</string>
+    <string name="app_filter">Filtrar</string>
+    <string name="app_rename">Renomear</string>
+    <string name="app_share">Compartilhar</string>
+    <string name="app_note">Observação</string>
+    <string name="app_settings">Configurações</string>
+    <string name="app_email">usuario@tcc.com</string>
+
+    <string-array name="app_developers">
+        <item>TCC App</item>
+        <item>Versão 1.0</item>
+        <item>Desenvolvido por VieiraTeam</item>
+        <item>vieirateam.contact@gmail.com</item>
+    </string-array>
+
+    <string name="app_error">Desculpe :( erro ao conectar-se com o servidor</string>
+    <string name="app_error_internet">Verifique sua conexão com a internet</string>
+    <string name="app_error_shopping">Não há lista de compras no momento</string>
+    <string name="app_error_shopping_exits">Lista de compras já existe no momento</string>
+    <string name="app_error_shopping_alert">Informe um nome para a lista de compras</string>
+    <string name="app_error_start_intent">"Desculpe :( não foi possível iniciar a atividade"</string>
+    <string name="app_error_feedback">Desculpe :( não foi possível enviar o feedback</string>
+    <string name="app_error_questions">É necessário responder as perguntas para continuar</string>
+
+    <string name="nav_offer">Ofertas</string>
+    <string name="nav_product">Produtos</string>
+    <string name="nav_shopping">Lista de Compras</string>
+    <string name="nav_entertainment">Entretenimento</string>
+    <string name="nav_location">Nossas Lojas</string>
+    <string name="nav_more">Mais Opções</string>
+    <string name="nav_notification">Notificações</string>
+    <string name="nav_feedback">Feedback</string>
+    <string name="nav_about">Sobre</string>
+    <string name="nav_close">Sair</string>
+
+    <string name="text_concat">%1$s %2$s</string>
+
+    <string name="text_all">Todas</string>
+    <string name="text_category">Categoria</string>
+    <string name="text_categories">Categorias</string>
+    <string name="text_store">Lojas</string>
+    <string name="text_minimum">Menor Preço</string>
+    <string name="text_maximum">Maior Preço</string>
+    <string name="text_about">Sobre</string>
+    <string name="text_location">Localização</string>
+    <string name="text_ingredient">Ingredientes</string>
+    <string name="text_preparation">Modo de Preparo</string>
+
+    <string name="text_review">Escreva uma resenha breve…</string>
+    <string name="text_thanks">Obrigado pela colaboração :)</string>
+
+    <string name="text_empty_filter">Desculpe :( não há informações nesta categoria</string>
+    <string name="text_new_shopping">Nova Lista de Compras</string>
+    <string name="text_list_empty">Lista de Compras Vazia</string>
+    <string name="text_list_delete">Lista excluída</string>
+    <string name="text_lists_delete">Listas excluídas</string>
+    <string name="text_product_to_list">Produto adicionado à lista</string>
+    <string name="text_products_to_list">Produtos adicionados à lista</string>
+    <string name="text_choose">Escolha uma opção</string>
+    <string name="text_delete">Deseja realmente excluir a lista de compras?</string>
+
+    <string name="text_name">Nome</string>
+    <string name="text_address">Endereço</string>
+    <string name="text_neighborhood">Bairro</string>
+    <string name="text_city">Cidade</string>
+    <string name="text_phone">Telefone</string>
+    <string name="text_email">E-mail</string>
+    <string name="text_value">Preço:</string>
+    <string name="text_quantity">Quantidade: %1$d</string>
+    <string name="text_quantity_99">99+</string>
+    <string name="text_total">Total: %1$s</string>
+    <string name="text_desc">Descrição</string>
+    <string name="text_validate">Oferta válida até</string>
+    <string name="text_validate_value">Preço válido até</string>
+    <string name="text_available">Produto disponível em</string>
+    <string name="text_office_hour">Horário de Atendimento</string>
+
+    <string name="text_notification_on">Notificações ativadas</string>
+    <string name="text_notification_off">Notificações desativadas</string>
+    <string name="text_notification_empty">Não há notificações no momento</string>
+    <string name="text_show_note_shopping">Os preços podem ser alterados conforme a data de cadastro</string>
+    <string name="text_show_note_product">Os preços são fictícios e as imagens são meramente ilustrativas</string>
+    <string name="text_dont_show_again">Não mostrar novamente</string>
+
+
+    <!--<string name="google_maps_key">############## your google maps key here ##############</string>-->
+
+    <string name="google_maps_key">AIzaSyAdoBzORxCaTvGwHP8IcgaSoJI9zzXXhco</string>
+
+
+    <string name="grant_permissions">Liberar permissões</string>
+    <string name="mis_grant_permissions">Liberar permissões</string>
+    <string name="please_grant_permissions">Para poder prosseguir é importante liberar as permissões :)</string>
+
+    <string name="app_intro_title1">Bem Vindo ao TCC App</string>
+    <string name="app_intro_desc1">
+        Fácil e prático, o aplicativo
+        \n
+        TCC App foi desenvolvildo com
+        \n
+        o intuito de facilitar sua busca por
+        \n
+        produtos e criar listas
+        \n
+        de compras personalizadas.
+    </string>
+
+    <string name="app_intro_title2">Listas de Compras</string>
+    <string name="app_intro_desc2">
+        Crie listas de compras
+        \n
+        pressionando sobre algum item
+        \n
+        para iniciar a seleção de produtos.
+        \n
+        Quando satisfeito, clique no
+        \n
+        ícone carrinho de compras.
+    </string>
+
+    <string name="app_intro_title3">Compartilhe</string>
+    <string name="app_intro_desc3">
+        Compartilhe suas <strong>Listas de Compras</strong>,
+        \n
+        <strong>Notícias</strong>, <strong>Bem Estar</strong> e <strong>Receitas</strong>
+        \n
+        com seus contatos.
+    </string>
+
+    <string name="app_intro_title4">Feedback</string>
+    <string name="app_intro_desc4">
+        Envie-nos seu feedback
+        \n
+        para nossa equipe entregar para você
+        \n
+         um melhor serviço.
+    </string>
+
+    <string name="app_intro_title5">Permissões</string>
+    <string name="app_intro_desc5">
+        O aplicativo TCC App
+        \n
+        requer algumas permissões
+        \n
+        para seu funcionamento
+    </string>
+    <string name="app_intro_button5">Pronto!</string>
+    <string name="app_intro_message5">As permissões foram liberadas</string>
+
+    <string name="app_intro_title6">Termos de Serviço</string>
+    <string name="app_intro_checkbox">Concordo com os termos e condições de uso</string>
+    <string name="app_intro_label">Concorde para prosseguir :)</string>
+
+    <string name="app_intro_desc6">
+        Seção 1: Sobre
+        \n\n
+        Este aplicativo foi desenvolvido por Vinicius Vieira dos Santos e Wellinton Vieira dos Santos como finalidade a elaboração do Trabalho de Conclusão do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas, oferecido no Instituto Federal de Santa Catarina - Câmpus Canoinhas, sob orientação do professor Dr. Luciano Barreto.
+        \n\n
+        Seção 2: Login
+        \n\n
+        Para a utilização desta aplicação será necessário uma conta Google como método de login. A mesma é um requisito de comunicação com o serviço <i>Firebase</i> do Google. Ao sair desta aplicação ou desinstalar este aplicativo, suas informações serão mantidas apenas para fins estatísticos.
+        \n\n
+        Seção 3: Dados
+        \n\n
+        As informações da conta Google requisitadas serão somente: nome de usuário, e-mail e imagem, sendo esta última utilizada apenas no aplicativo. Estas informações não serão divulgadas em qualquer meio.
+        Esta aplicação irá coletar dados técnicos do aparelho, tais como: modelo do dispositivo, versão do sistema operacional, tamanho físico da tela, e localização aproximada. A coleta destes dados é de total responsabilidade de um serviço terceiro (<i>Firebase</i> do Google).
+        Para aprimorar a aplicação, há uma coleta de dados das pesquisas dos produtos e do feedback dos usuários. Todos os dados coletados serão utilizados para fins estatísticos para a elaboração de nosso Trabalho de Conclusão de Curso e aprimoramento da experiência de usuário.
+        \n\n
+        Seção 4: Uso
+        \n\n
+        As informações que estarão disponíveis no aplicativo serão parcialmente fictícias, sendo suas atualizações totalmente de responsabilidade dos desenvolvedores.
+        Esta aplicação não poderá ser compartilhada ou comercializada com terceiros.
+    </string>
+
+</resources>

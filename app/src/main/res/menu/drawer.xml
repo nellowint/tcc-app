@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_offer"
+            android:icon="@drawable/ic_menu_offer"
+            android:title="@string/nav_offer" />
+        <item
+            android:id="@+id/nav_product"
+            android:icon="@drawable/ic_menu_product"
+            android:title="@string/nav_product" />
+        <item
+            android:id="@+id/nav_shopping"
+            android:icon="@drawable/ic_menu_shopping"
+            android:title="@string/nav_shopping" />
+        <item
+            android:id="@+id/nav_entertainment"
+            android:icon="@drawable/ic_menu_entertainment"
+            android:title="@string/nav_entertainment" />
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/ic_menu_location"
+            android:title="@string/nav_location" />
+    </group>
+
+    <item android:title="@string/nav_more">
+        <menu>
+            <item
+                android:id="@+id/nav_notification"
+                android:icon="@drawable/ic_menu_notification"
+                android:title="@string/nav_notification" />
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_menu_feedback"
+                android:title="@string/nav_feedback" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_about"
+                android:title="@string/nav_about" />
+
+            <item
+                android:id="@+id/nav_close"
+                android:icon="@drawable/ic_menu_exit"
+                android:title="@string/nav_close" />
+        </menu>
+    </item>
+
+</menu>

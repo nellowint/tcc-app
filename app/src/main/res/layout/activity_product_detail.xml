@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".activity.ProductDetailActivity">
+
+    <include
+        layout="@layout/adapter_app_bar_layout">
+    </include>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_shopping"
+        android:layout_width="@dimen/fav_icon"
+        android:layout_height="@dimen/fav_icon"
+        android:src="@drawable/ic_menu_shopping_item"
+        app:layout_anchor="@id/app_bar"
+        android:layout_marginRight="@dimen/activity_margin"
+        app:layout_anchorGravity="bottom|end"
+        android:layout_marginEnd="@dimen/activity_margin" />
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        layout="@layout/fragment_product_detail"/>
+
+</android.support.design.widget.CoordinatorLayout>

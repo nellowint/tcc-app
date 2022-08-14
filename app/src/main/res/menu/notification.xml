@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/notification_on"
+        android:icon="@drawable/ic_menu_notification_on"
+        android:title="@string/text_notification_on"
+        android:visible="false"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/notification_off"
+        android:icon="@drawable/ic_menu_notification_off"
+        android:title="@string/text_notification_off"
+        android:visible="false"
+        app:showAsAction="always" />
+
+</menu>

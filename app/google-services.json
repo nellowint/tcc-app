@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "848614963741",
+    "firebase_url": "https://tcc-app-ifsc-2018.firebaseio.com",
+    "project_id": "tcc-app-ifsc-2018",
+    "storage_bucket": "tcc-app-ifsc-2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848614963741:android:7d973722f4779cd6",
+        "android_client_info": {
+          "package_name": "br.com.vieirateam.tcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848614963741-mn77cv82pt08c4p88gdpbcsrho3eifdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.vieirateam.tcc",
+            "certificate_hash": "478790ff1908940b796280e148cd8b5de9f0d7a2"
+          }
+        },
+        {
+          "client_id": "848614963741-k82l4i3oinm4v251pq6p1avqu3oeffr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACARAp9RzMxTF1RxWfttrnrpzit5rYMN4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848614963741-k82l4i3oinm4v251pq6p1avqu3oeffr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
