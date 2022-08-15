@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">TCC App</string>
-    <string name="app_server">http://vieirateam.pythonanywhere.com</string>
-    <string name="app_server_image">"/static/images/icon_round.png"</string>
+    <!-- your url api server here -->
+    <string name="app_server">api_url_here</string>
+    <string name="app_server_image">"icon_round.png"</string>
     <string name="app_user">Usuário</string>
     <string name="app_search">Pesquisar</string>
     <string name="app_loading">Carregando…</string>
@@ -19,7 +20,7 @@
     <string name="app_share">Compartilhar</string>
     <string name="app_note">Observação</string>
     <string name="app_settings">Configurações</string>
-    <string name="app_email">usuario@tcc.com</string>
+    <string name="app_email">vieirateam.contact@gmail.com</string>
 
     <string-array name="app_developers">
         <item>TCC App</item>
@@ -99,8 +100,7 @@
 
 
     <!--<string name="google_maps_key">############## your google maps key here ##############</string>-->
-
-    <string name="google_maps_key">AIzaSyAdoBzORxCaTvGwHP8IcgaSoJI9zzXXhco</string>
+    <string name="google_maps_key">your google maps key here!</string>
 
 
     <string name="grant_permissions">Liberar permissões</string>
