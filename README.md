@@ -16,6 +16,8 @@ Autores:
 
 [Vinicius Vieira dos Santos](https://github.com/viniciusvsantos)
 
+[Artigo](https://github.com/wellintonvieira/tcc-app/blob/main/app/sampledata/TCC.pdf)
+
 ## Seção 1: Sobre
 
 Este aplicativo foi desenvolvido por Vinicius Vieira dos Santos e Wellinton Vieira dos Santos como finalidade a elaboração do Trabalho de Conclusão do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas, oferecido no Instituto Federal de Santa Catarina - Câmpus Canoinhas, sob orientação do professor Dr. Luciano Barreto.
