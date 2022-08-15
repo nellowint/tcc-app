@@ -1,6 +1,6 @@
 # tcc-app
 
-Repositório criado para apresentação do meu Portifólio Mobile
+Repositório criado para apresentação do meu Portifólio
 
 Este projeto doi desenvolviendo no: 
 
